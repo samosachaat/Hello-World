@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @samosachaat
-- 😋 I’m interested in eating samosas and chaat, especially samosachaat
+- 😋 I’m interested in eating samosas and chaat, but especially samosachaat
 - 🌱🥘 I’m currently learning ladyfinger curry because am bad at math 🥲
 - 💞️ I’m looking to collaborate with mithaiwalas to branch internationally, give me a call on 011-23386447 to collab 🥰
 - 🤙 How to reach me is to call 011-23386447
