@@ -14,6 +14,8 @@ Over time, samosa chaat has become immensely popular across the Indian subcontin
 
 Today, samosa chaat is celebrated for its rich and complex flavors, combining the crispiness of the samosa with the tanginess of the chutneys and the creaminess of the yogurt. It continues to be a beloved dish, enjoyed by people of all ages and backgrounds, and its popularity extends beyond the borders of South Asia to communities around the world.
 
+- Thanks for stopping by my friend 👊, if our paths never cross again 😔 ... I hope you have a wonderful life ☺️ Hope god treats you well ❤️ If you are one who's planning on coming back to this page... Why
+
 <!---
 samosachaat/samosachaat is a ✨ very special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
