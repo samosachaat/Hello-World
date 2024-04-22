@@ -21,7 +21,9 @@ Please note:
 - must have java installed (any version)
 - a security error may appear, to allow the jar to run, go to privacy setting and allow the file to open...
 
-- Thanks for stopping by my friend 👊, if our paths never cross again 😔 ... I hope you have a wonderful life ☺️ Hope god treats you well ❤️ If you are one who's planning on coming back to this page... Why
+And a final message:
+
+Thanks for stopping by my friend 👊, if our paths never cross again 😔 ... I hope you have a wonderful life ☺️ Hope god treats you well ❤️ If you are one who's planning on coming back to this page... Why
 
 <!---
 samosachaat/samosachaat is a ✨ very special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
