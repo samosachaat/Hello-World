@@ -17,9 +17,9 @@ Today, samosa chaat is celebrated for its rich and complex flavors, combining th
 This jar file in a basic hello world program for those how want to summon a voice from the depths of your computer.
 
 Please note:
-- only works on macOS
-- must have java installed (any version)
-- a security error may appear, to allow the jar to run, go to privacy setting and allow the file to open...
+- Only works on macOS
+- Must have java installed (any version)
+- A security error may appear, to allow the jar to run, go to privacy setting and allow the file to open...
 
 And a final message:
 
